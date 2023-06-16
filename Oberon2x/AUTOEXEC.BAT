@@ -1,0 +1,5 @@
+@ECHO OFF
+PROMPT $p$g
+PATH C:;C:\;\DOS;\MOUSE
+MOUSE
+
